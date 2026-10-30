@@ -1,0 +1,14 @@
+{
+  "1549848827031322734": {
+    "enabled": true,
+    "channels": [
+      1550240151085519000
+    ],
+    "interval_minutes": 5,
+    "window_minutes": 5,
+    "min_messages": 2,
+    "min_unique_users": 2,
+    "era": "any",
+    "quotes_mode": "moderate"
+  }
+}
